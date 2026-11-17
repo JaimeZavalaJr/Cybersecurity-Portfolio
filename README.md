@@ -1,2 +1,2 @@
-# Cybersecurity-Portfolio
-Cybersecurity Portfolio
+Professional Statement:
+I am a motivated, quick learner who's always been passionate about computers and technology, with a strong interest in cybersecurity and a solid foundation in recognizing common threats like malware and phishing. I value protecting people and organizations through continuous learning and careful attention to detail. As I continue through the Cybersecurity Google Certification, I am preparing to support the goals of an organization by helping identify risks, strengthen defenses, and keep systems and data safe.
